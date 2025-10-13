@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <train number="SKA2" type="passenger">
+        <elements>
+            <locomotive type="electric">Siemens Vectron</locomotive>
+            <passenger_cars type="sleepy">Sleepers Train - DB (Deutsche Bahn)</passenger_cars>
+            <passenger_service_equipment type="Passenger information system">Alstom Citadis</passenger_service_equipment>
+            <ticketing_and_sales_system type="Access Control System">Gemalto (E-ticketing)</ticketing_and_sales_system>
+        </elements>
+    </train>
+    <bus number="215" type="passenger">
+        <elements>
+            
+        </elements>
+    </bus>
+</transports>

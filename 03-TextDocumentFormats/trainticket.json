@@ -1,0 +1,13 @@
+[
+    {
+        "type": "one-way",
+        "destination": "Kraków Główny",
+        "isNormal": false,
+        "price": 2.89,
+        "year": 2025,
+        "trainsAllowed": [
+            "SKA2",
+            "PolRegio"
+        ]
+    }
+]

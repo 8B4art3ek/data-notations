@@ -53,5 +53,30 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Zara",
+        "founded": 1975,
+        "headquarters": "Arteixo, Spain",
+        "employees": 165000,
+        "products": [
+            "Apparel",
+            "Accessories",
+            "Shoes",
+            "Beauty",
+            "Perfumes"
+        ]
+    },
+    {
+        "name": "H&M",
+        "founded": 1947,
+        "headquarters": "Stockholm, Sweden",
+        "employees": 106522,
+        "products": [
+            "Clothing",
+            "Accessories",
+            "Home Goods",
+            "Cosmetics"
+        ]
     }
 ]
